@@ -3,9 +3,9 @@ I am enthusiast about writing web applications and solving problems. I’ve work
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on (Tribes Around The World)[https://tribesaround.com]
-- 🌱 I’m currently learning (Rust)[https://www.rust-lang.org]
+- 🔭 I’m currently working on [Tribes Around The World](https://tribesaround.com)
+- 🌱 I’m currently learning [Rust](https://www.rust-lang.org)
 - I’m looking to collaborate on open source humanitarian projects.
 - 🤔 I’m looking for help with Blockchain
-- 📫 How to reach me: via (Telegram)[https://t.me/AndiroDM] or Mail
+- 📫 How to reach me: via [Telegram](https://t.me/AndiroDM) or Mail
 - ⚡ Fun fact: Hello Fellow Sim's 
